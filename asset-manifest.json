@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/github.io/react-gif-expert/static/css/main.1a977d8d.css",
-    "main.js": "/github.io/react-gif-expert/static/js/main.d53c9f24.js",
-    "index.html": "/github.io/react-gif-expert/index.html",
-    "main.1a977d8d.css.map": "/github.io/react-gif-expert/static/css/main.1a977d8d.css.map",
-    "main.d53c9f24.js.map": "/github.io/react-gif-expert/static/js/main.d53c9f24.js.map"
+    "main.css": "/react-gif-expert/static/css/main.1a977d8d.css",
+    "main.js": "/react-gif-expert/static/js/main.d53c9f24.js",
+    "index.html": "/react-gif-expert/index.html",
+    "main.1a977d8d.css.map": "/react-gif-expert/static/css/main.1a977d8d.css.map",
+    "main.d53c9f24.js.map": "/react-gif-expert/static/js/main.d53c9f24.js.map"
   },
   "entrypoints": [
     "static/css/main.1a977d8d.css",
